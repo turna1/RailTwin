@@ -1,2 +1,2 @@
 # RailTwin
-An AI integrated Digital Twin for Railway 
+An AI-integrated Digital Twin for Railway 
